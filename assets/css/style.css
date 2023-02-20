@@ -61,6 +61,15 @@ p {
     margin-left: 20px;
 }
 
+.topics {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -90,15 +99,6 @@ p {
 h3 {
     margin-bottom: 10px;
     text-align: center;
-}
-
-.topics {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
 }
 
 h2 {
