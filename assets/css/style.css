@@ -1,12 +1,16 @@
+/* UNIVERSAL SETTING */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* BODY */
 body {
     background-color: #d9dcd6;
 }
+
+/* HEADER */
 
 header {
     padding: 20px;
@@ -37,14 +41,20 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* NAV FONT COLOR */
+
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* PARAGRAPH FONT SIZE */
+
 p {
     font-size: 16px;
 }
+
+/* ARTICLE SECTION SETTINGS */
 
 .hero {
     height: 800px;
@@ -55,7 +65,8 @@ p {
     background-position: center;
 }
 
-.content {
+/* REMOVED DIV IN HTML AND CSS IS NO LONGER A CLASS */
+content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -69,6 +80,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+/* ASIDE SECTION SETTINGS */
 
 .benefits {
     margin-right: 20px;
@@ -96,6 +109,8 @@ p {
     color: #ffffff;
 }
 
+/* HEADING SETTINGS */
+
 h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -105,6 +120,8 @@ h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* FOOTER SETTINGS */
 
 footer {
     padding: 30px;
