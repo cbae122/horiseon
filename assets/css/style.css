@@ -83,7 +83,9 @@ content {
 
 /* ASIDE SECTION SETTINGS */
 
-.benefits {
+/* REMOVED DIV BENEFITS FROM HTML */
+
+benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
