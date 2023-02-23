@@ -54,7 +54,7 @@ p {
     font-size: 16px;
 }
 
-/* ARTICLE SECTION SETTINGS */
+/* MAIN SECTION SETTINGS */
 
 .hero {
     height: 800px;
@@ -81,7 +81,7 @@ main {
     color: #ffffff;
 }
 
-main article img {
+main section img {
     max-height: 200px;
 }
 
