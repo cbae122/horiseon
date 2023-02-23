@@ -66,7 +66,7 @@ p {
 }
 
 /* REMOVED DIV IN HTML AND CSS IS NO LONGER A CLASS */
-content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -85,7 +85,7 @@ content {
 
 /* REMOVED DIV BENEFITS FROM HTML */
 
-benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -96,17 +96,9 @@ benefits {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+/* combined the multiple/duplicate codes */
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
