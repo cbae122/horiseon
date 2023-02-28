@@ -135,6 +135,11 @@ h2 {
     font-size: 36px;
 }
 
+h4 {
+    font-size: 20px;
+    margin-bottom: auto;
+}
+
 /* FOOTER SETTINGS */
 
 footer {
